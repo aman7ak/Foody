@@ -146,6 +146,7 @@ ul li a:hover {
 
 /* header-img */
 .section-1-img {
+    box-shadow: 20px 0px 30px black;
     height: 30.796875rem;
     width: 38.53125rem;
     border-radius: 1.5625rem;
